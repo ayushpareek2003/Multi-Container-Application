@@ -1,0 +1,1 @@
+I faced an issue where the Jenkins pipeline didn’t trigger after pushing code to GitHub. The original setup was on my office account, which I couldn’t make public, so I transferred the code here and added screenshots instead. Due to time constraints, I couldn’t reconfigure the keys and setup fully
